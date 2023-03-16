@@ -1,0 +1,9 @@
+.widget-image {
+    order: -1;
+  }
+
+  .widget-image {
+    width: 250px;
+    height: 300px;
+      order: -2;
+    }
